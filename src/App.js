@@ -1,6 +1,7 @@
 import logo from "./logo_mm.png";
 import Dictionary from "./Dictionary";
 import "./App.css";
+import Footer from "./Footer";
 
 export default function App() {
   return (
@@ -13,7 +14,9 @@ export default function App() {
           <Dictionary />
         </main>
       </div>
-      <footer className="text-center"> Coded by Maria Matthäus</footer>
+      <div className="footer">
+        <Footer />
+      </div>
     </div>
   );
 }
