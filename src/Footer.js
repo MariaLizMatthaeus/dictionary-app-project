@@ -21,6 +21,16 @@ export default function Footer() {
       </a>{" "}
       coded by Maria Matthäus with 🖤 and caring support by{" "}
       <a href="https://www.shecodes.io/">SheCodes</a>
+      <div>
+        image credits:{" "}
+        <a
+          href="https://www.pexels.com/de-de/foto/rechteckiges-weisses-gebaude-unter-blauem-himmel-1544944/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Scott Webb
+        </a>
+      </div>
     </small>
   );
 }
