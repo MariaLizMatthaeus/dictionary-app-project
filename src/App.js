@@ -12,7 +12,7 @@ export default function App() {
           <img src={logo} className="App-logo" alt="logo" />
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="moon" />
         </main>
       </div>
       <div className="footer">

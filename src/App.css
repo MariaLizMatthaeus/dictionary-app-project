@@ -9,3 +9,8 @@
 .App .footer {
   margin-top: 50px;
 }
+.App .body {
+  background-image: url(./background_abstract_wordmeaning.jpg);
+  max-width: 100%;
+  height: auto;
+}
