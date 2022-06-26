@@ -55,9 +55,7 @@ export default function Dictionary(props) {
               defaultValue={props.defaultKeyword}
             ></input>
           </form>
-          <small className="hint">
-            Search for words like: swimming, abstract, coding ...
-          </small>
+          <small className="hint">e.g. swimming, universe, coding ...</small>
         </section>
         <Results results={results} />
         <Photos photos={photos} />

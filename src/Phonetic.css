@@ -2,22 +2,16 @@
   margin: 20px 0 0;
 }
 
-.Phonetics h2 {
-  font-weight: 600;
-  font-size: 16px;
-  line-height: 19px;
+.Phonetics .text {
+  font-style: italic;
+  font-weight: 20px;
+  left: 310px;
+  bottom: 45px;
   color: #666666;
-  display: inline;
+  margin-top: 20px;
+  display: block;
 }
 
-.Phonetics a {
-  color: #6c63ff;
-  font-weight: normal;
-  margin-right: 15px;
-  font-size: 14px;
-  line-height: 17px;
-  padding: 8px 18px;
-  border: 1px solid #dddddd;
-  border-radius: 20px;
-  text-decoration: none;
+.Phonetics .PhoneticsPlayer {
+  margin: 100px;
 }

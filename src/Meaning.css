@@ -13,8 +13,9 @@
   margin: 20px 0 10px;
 }
 
-.Meaning em {
+.Meaning .example {
   font-size: 13px;
-  line-height: 15px;
   color: #666666;
+  font-style: italic;
+  margin-top: 10px;
 }

@@ -6,6 +6,7 @@ export default function Photos(props) {
     return (
       <section className="Photos">
         <div className="row">
+          <p>Get insprired by some pictures</p>
           {props.photos.map(function (photo, index) {
             return (
               <div className="col-4" key={index}>
