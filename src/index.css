@@ -6,7 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-image: url(./background_abstract_wordmeaning.jpg);
-  background-size: 100%;
+  background-size: cover;
   background-repeat: "no-repeat";
 }
 
