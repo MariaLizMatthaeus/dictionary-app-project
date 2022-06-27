@@ -11,6 +11,7 @@
 }
 .App .footer {
   margin-top: 50px;
+  text-align: center;
 }
 .App .body {
   background-image: url(./background_abstract_wordmeaning.jpg);
